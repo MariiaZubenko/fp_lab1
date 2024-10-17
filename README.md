@@ -77,6 +77,7 @@ Merged list (C 2 (2 4) NIL B 2 4)
 <p align="center">
 <img src="lab-1-variant8.png">
 </p>
+
 ```lisp
 (defvar eight-list nil)
 (defvar include-in-list nil)
